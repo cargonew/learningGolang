@@ -1,12 +1,12 @@
-package main
+package main 
 
 import (
 	"fmt"
 	"slices"
 )
 
-func main() {
 
+func slicing (){ 
 
 	var s []string
 
@@ -79,7 +79,4 @@ func main() {
 
 	fmt.Println("Hey look i made a 2D , how cool is that => " , twoD)
 
-
-
 }
-
